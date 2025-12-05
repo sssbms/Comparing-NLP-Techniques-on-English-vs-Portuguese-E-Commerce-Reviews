@@ -1,0 +1,2 @@
+# Comparing-NLP-Techniques-on-English-vs-Portuguese-E-Commerce-Reviews
+This project compares Natural Language Processing (NLP) techniques applied to two languages — English and Brazilian Portuguese — using e-commerce customer review datasets. The focus is on text preprocessing, Bigram Language Modelling with Laplace Smoothing, and Part-of-Speech (POS) Tagging, followed by accuracy evaluation and error analysis.
